@@ -3,3 +3,4 @@ client/node_modules/
 backend/node_modules/
 .vite/
 dist/
+client/vite.config.js
